@@ -15,20 +15,14 @@
 
 .header{
     display: flex;
-    flex-flow: column nowrap;
-    border: 1px solid black;
-}
-
-
-.menu{
     background-color: white;
     border: 1px solid black;
-    display: flex;
     flex-flow: row nowrap;
     height: 100px;
     align-items: center;
     text-align: center;
 }
+
 
 .foto, .nombre, .icono{
     height: 80px;
